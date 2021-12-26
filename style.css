@@ -3,10 +3,14 @@ section{
 }
 .jumbotron {
   padding-top: 5rem;
-  background-color: #e2a04a;
+  background-color: #A45D5D;
 }
 #projects{
-  background-color: #e2a04a;
+  background-color: #A45D5D;
+}
+
+#contact{
+  background-color: #A45D5D;
 }
 
 .gallery-img{
